@@ -1,0 +1,9 @@
+a{
+    color : white ; text-decoration: none;
+}
+div{
+    width : 500px;
+    background: grey;
+    margin : auto;
+    text-align: center;
+}
